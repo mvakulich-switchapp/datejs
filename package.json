@@ -17,11 +17,11 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/abritinthebay/datejs.git"
+    "url": "git://github.com/mvakulich-switchapp/datejs.git"
   },
-  "homepage": "https://github.com/abritinthebay/datejs",
+  "homepage": "https://github.com/mvakulich-switchapp/datejs",
   "bugs": {
-    "url": "http://github.com/abritinthebay/datejs/issues"
+    "url": "http://github.com/mvakulich-switchapp/datejs/issues"
   },
   "keywords": [
     "date",
